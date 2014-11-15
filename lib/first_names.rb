@@ -71,7 +71,8 @@ Rubeus
 Rolanda
 Helga
 Angelina
-LavenderIgor
+Lavender
+Igor
 Viktor
 Bellatrix
 Rabastan
