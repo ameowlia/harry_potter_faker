@@ -1,0 +1,11 @@
+$domain_names=
+%Q{.com
+.org
+.net
+.biz
+.edu
+.inc
+.tech
+.wiz
+.muggle
+}
