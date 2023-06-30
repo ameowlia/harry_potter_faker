@@ -1,6 +1,6 @@
 # harry_potter_faker
 
-Your test data no longer has to be boring! Now enjoy testing with Harry Potter theamed faked data. 
+Your test data no longer has to be boring! Now enjoy testing with Harry Potter themed faked data. 
 
 ## Installing
 
